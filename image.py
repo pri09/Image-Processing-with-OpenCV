@@ -6,7 +6,7 @@ import glob
  
 ###Read the above using the opencv module.
  
-image = cv2.imread('C:/Users/hp/Desktop/IM ML OJT/Week 4/image.jpg')
+image = cv2.imread('C:/Users/hp/Desktop/image.jpg')
 cv2.imshow('Original image',image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
